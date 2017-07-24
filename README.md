@@ -5,8 +5,7 @@ Find best state using Backtracking, Forward Checking, Genetic Algorithm "Artific
 <table style="border:0px;">
   <tr>
     <td>
-      Genetic Algorithm (GA):<br>
-      <img src="https://raw.githubusercontent.com/arefbhrn/Android-nQueens/master/screenshots/Screenshot_20160709-095935.png" width="250"/>
+      <img src="https://raw.githubusercontent.com/litkalit/NQueen/master/screenshots/Screenshot_2017-07-24-15-05-29-472_com.bokvlt.nqueen.png" width="250"/>
     </td>
   </tr>
 </table>
