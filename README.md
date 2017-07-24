@@ -1,7 +1,6 @@
 # NQueen
 Find best state using Backtracking, Forward Checking, Genetic Algorithm "Artificial Intelligent"
 
-### Screenshots
 <table style="border:0px;">
   <tr>
     <td>
